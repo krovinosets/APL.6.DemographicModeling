@@ -1,0 +1,4 @@
+C:\Users\andre\OneDrive\libs\exe\Exec.pdb
+C:\Users\andre\OneDrive\libs\exe\Demographic.pdb
+C:\Users\andre\OneDrive\libs\exe\FileOperations.pdb
+C:\Users\andre\OneDrive\libs\exe\Exec.exe

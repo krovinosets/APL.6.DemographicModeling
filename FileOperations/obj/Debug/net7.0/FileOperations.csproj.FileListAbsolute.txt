@@ -1,0 +1,11 @@
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\bin\Debug\net7.0\FileOperations.deps.json
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\bin\Debug\net7.0\FileOperations.dll
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\bin\Debug\net7.0\FileOperations.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\obj\Debug\net7.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\obj\Debug\net7.0\FileOperations.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\obj\Debug\net7.0\FileOperations.AssemblyInfo.cs
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\obj\Debug\net7.0\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\obj\Debug\net7.0\FileOperations.dll
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\obj\Debug\net7.0\refint\FileOperations.dll
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\obj\Debug\net7.0\FileOperations.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\FileOperations\obj\Debug\net7.0\ref\FileOperations.dll

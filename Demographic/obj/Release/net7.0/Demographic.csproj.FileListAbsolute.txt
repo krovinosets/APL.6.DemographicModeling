@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\bin\Release\net7.0\Demographic.deps.json
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\bin\Release\net7.0\Demographic.dll
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\bin\Release\net7.0\Demographic.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\bin\Release\net7.0\FileOperations.dll
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\bin\Release\net7.0\FileOperations.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\Demographic.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\Demographic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\Demographic.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\Demographic.AssemblyInfo.cs
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\Demographic.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\Demographic.csproj.CopyComplete
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\Demographic.dll
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\refint\Demographic.dll
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\Demographic.pdb
+C:\Users\andre\OneDrive\env\RiderProjects\Demographic\Demographic\obj\Release\net7.0\ref\Demographic.dll

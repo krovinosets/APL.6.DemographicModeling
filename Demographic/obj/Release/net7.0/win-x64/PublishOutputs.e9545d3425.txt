@@ -1,0 +1,5 @@
+C:\Users\andre\OneDrive\libs\exe\Demographic.dll
+C:\Users\andre\OneDrive\libs\exe\Demographic.deps.json
+C:\Users\andre\OneDrive\libs\exe\Demographic.pdb
+C:\Users\andre\OneDrive\libs\exe\FileOperations.dll
+C:\Users\andre\OneDrive\libs\exe\FileOperations.pdb
